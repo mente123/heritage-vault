@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Heritage Vault — African Objects at the British Museum</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&family=Outfit:wght@300;400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="header">
+    <div class="header-inner">
+      <h1 class="title">Heritage Vault</h1>
+      <p class="tagline">African objects at the British Museum — where they were taken from, and when</p>
+    </div>
+  </header>
+
+  <main class="main">
+    <aside class="panel">
+      <div class="panel-section">
+        <h2>Artefacts by country</h2>
+        <div id="origins-list" class="origins-list"></div>
+      </div>
+      <div class="panel-section">
+        <h3>About</h3>
+        <p>This map uses <strong>step3.csv</strong>: African artefacts from the British Museum by country (findspot/production in Africa). Each dot is one country; size reflects number of objects. <a href="https://www.britishmuseum.org/collection/search?place=Africa" target="_blank" rel="noopener">BM search: Africa</a></p>
+        <p><a href="https://www.britishmuseum.org/about-us/british-museum-story/contested-objects-collection" target="_blank" rel="noopener">British Museum: Contested objects</a></p>
+      </div>
+    </aside>
+    <div class="map-wrap">
+      <div id="map" class="map"></div>
+      <div class="map-legend" id="map-legend"></div>
+    </div>
+  </main>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

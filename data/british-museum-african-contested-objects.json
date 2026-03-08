@@ -1,0 +1,163 @@
+{
+  "source": "British Museum contested/looted African cultural objects",
+  "last_updated": "2025-03-08",
+  "notes": "Objects from across Africa held by the British Museum, with origin place, year taken/acquired, and links to collection. Images: placeholder where no public image URL available.",
+  "objects": [
+    {
+      "object_name": "Royal shield (with lion's mane pendant)",
+      "origin_place": "Maqdala (Amba Mariam), Ethiopia",
+      "origin_coordinates": [11.2, 39.283],
+      "origin_country": "Ethiopia",
+      "year_acquired": 1868,
+      "history": "Maqdala 1868. Taken from fortress of Emperor Tewodros II. Described as 'the most richly ornamented of the royal shields'; possibly made for Tewodros. Acquired by Holmes (purchased at sale of loot or taken during plunder).",
+      "type": "shield",
+      "museum_ref": "Af1868,1001.1",
+      "object_url": "https://www.britishmuseum.org/collection/object/Af1868-1001-1",
+      "image_url": null
+    },
+    {
+      "object_name": "Necklace (Empress Tiruwork Wube)",
+      "origin_place": "Maqdala (Amba Mariam), Ethiopia",
+      "origin_coordinates": [11.2, 39.283],
+      "origin_country": "Ethiopia",
+      "year_acquired": 1868,
+      "history": "Maqdala 1868. Looted by Richard Holmes at Maqdala on 13 April 1868 (retained as 'prize' with Napier's permission). BM report stated it 'belonged to the Queen of Theodore'.",
+      "type": "necklace; amulet",
+      "museum_ref": "Af1868,1001.4",
+      "object_url": "https://www.britishmuseum.org/collection/object/Af1868-1001-4",
+      "image_url": null
+    },
+    {
+      "object_name": "Communion cup dedicated by Tewodros II",
+      "origin_place": "Maqdala (Amba Mariam), Ethiopia",
+      "origin_coordinates": [11.2, 39.283],
+      "origin_country": "Ethiopia",
+      "year_acquired": 1868,
+      "history": "Maqdala 1868. One of 13 objects bought by Holmes at the sale of loot on the Delanta Plain (20–21 April 1868).",
+      "type": "chalice / communion cup",
+      "museum_ref": "Af1868,1001.8",
+      "object_url": "https://www.britishmuseum.org/collection/object/Af1868-1001-8",
+      "image_url": null
+    },
+    {
+      "object_name": "Processional cross (Takla Haymanot)",
+      "origin_place": "Maqdala (Amba Mariam), Ethiopia",
+      "origin_coordinates": [11.2, 39.283],
+      "origin_country": "Ethiopia",
+      "year_acquired": 1868,
+      "history": "Maqdala 1868. Copper alloy, 15th century. Part of treasury assembled by Tewodros from churches. Acquired by Holmes at sale or during plunder.",
+      "type": "processional cross",
+      "museum_ref": "Af1868,1001.16",
+      "object_url": "https://www.britishmuseum.org/collection/object/Af1868-1001-16",
+      "image_url": null
+    },
+    {
+      "object_name": "Silk tablet-woven hanging (church screen)",
+      "origin_place": "Maqdala (Amba Mariam), Ethiopia",
+      "origin_coordinates": [11.2, 39.283],
+      "origin_country": "Ethiopia",
+      "year_acquired": 1868,
+      "history": "Maqdala 1868. Mid-18thC. Central section of triptych screening inner sanctum of church; depicts Bakaffa, Mentewab, Iyasu II. Purchased at Army sale of loot (40 Rupees).",
+      "type": "textile / hanging",
+      "museum_ref": "Af1868,1001.22",
+      "object_url": "https://www.britishmuseum.org/collection/object/Af1868-1001-22",
+      "image_url": null
+    },
+    {
+      "object_name": "Tabots (11 sacred altar tablets)",
+      "origin_place": "Maqdala (Amba Mariam), Ethiopia",
+      "origin_coordinates": [11.2, 39.283],
+      "origin_country": "Ethiopia",
+      "year_acquired": 1868,
+      "history": "Maqdala 1868 (nine). Consecrated altar tablets representing the Ark of the Covenant; sacred in Ethiopian Orthodox tradition. Stored off-display in sealed room; not illustrated online.",
+      "type": "tabot",
+      "museum_ref": "Af1868,1001.21; Af1868,1005.x (series)",
+      "object_url": "https://www.britishmuseum.org/about-us/british-museum-story/contested-objects-collection/maqdala-collection",
+      "image_url": null
+    },
+    {
+      "object_name": "Adulis church fragments",
+      "origin_place": "Adulis (near Zula), Eritrea",
+      "origin_coordinates": [15.2636, 39.6606],
+      "origin_country": "Eritrea",
+      "year_acquired": 1868,
+      "history": "1868. Excavated by Captain W. Goodfellow at ancient port of Adulis (28 May–9 June 1868). Early Christian church; fragments given to BM by Secretary of State for India.",
+      "type": "architectural fragments",
+      "museum_ref": "Secretary of State for India gift 1868",
+      "object_url": null,
+      "image_url": null
+    },
+    {
+      "object_name": "Benin plaque (warrior figure)",
+      "origin_place": "Benin City, Nigeria",
+      "origin_coordinates": [6.32, 5.61],
+      "origin_country": "Nigeria",
+      "year_acquired": 1897,
+      "history": "Looted during the British punitive expedition against the Kingdom of Benin, February 1897. British forces ransacked the royal palace; thousands of brass, bronze and ivory works were taken and later sold. Over 900 Benin objects are now in the British Museum.",
+      "type": "relief plaque; brass",
+      "museum_ref": "Af1898,0115.154",
+      "object_url": "https://www.britishmuseum.org/collection/object/Af1898-0115-154",
+      "image_url": null
+    },
+    {
+      "object_name": "Benin plaque (court figure)",
+      "origin_place": "Benin City, Nigeria",
+      "origin_coordinates": [6.32, 5.61],
+      "origin_country": "Nigeria",
+      "year_acquired": 1897,
+      "history": "Looted in the 1897 British raid on Benin City. Part of the royal palace decoration; cast by specialist guilds for the Oba. Many such plaques were auctioned by the British Admiralty.",
+      "type": "relief plaque; brass",
+      "museum_ref": "Af1897,1011.1",
+      "object_url": "https://www.britishmuseum.org/collection/object/Af1897-1011-1",
+      "image_url": null
+    },
+    {
+      "object_name": "Benin Bronzes (900+ objects)",
+      "origin_place": "Benin City, Nigeria",
+      "origin_coordinates": [6.32, 5.61],
+      "origin_country": "Nigeria",
+      "year_acquired": 1897,
+      "history": "1897. Between 3,000 and 5,000 objects were looted from the royal palace and city; over 900 are held by the British Museum. Include commemorative heads, relief plaques, regalia, ivory and wood. Nigeria and the Edo people have requested their return.",
+      "type": "bronze; brass; ivory; regalia",
+      "museum_ref": "Af1897–1898 series (900+ objects)",
+      "object_url": "https://www.britishmuseum.org/about-us/british-museum-story/contested-objects-collection/benin-bronzes",
+      "image_url": null
+    },
+    {
+      "object_name": "Asante gold regalia (1874 loot)",
+      "origin_place": "Kumasi, Ghana",
+      "origin_coordinates": [6.69, -1.62],
+      "origin_country": "Ghana",
+      "year_acquired": 1874,
+      "history": "Looted during the British 'punitive raid' on Kumasi, 4–6 February 1874 (First Anglo-Asante War). Items from the royal palace were sold at Garrard's in London in April 1874. The British Museum holds 200+ items of Asante gold regalia.",
+      "type": "gold regalia; jewellery; state symbols",
+      "museum_ref": "Various (1874 and 1896 acquisitions)",
+      "object_url": "https://www.britishmuseum.org/about-us/british-museum-story/contested-objects-collection/asante-gold-regalia",
+      "image_url": null
+    },
+    {
+      "object_name": "Asante gold regalia (1896 loot)",
+      "origin_place": "Kumasi, Ghana",
+      "origin_coordinates": [6.69, -1.62],
+      "origin_country": "Ghana",
+      "year_acquired": 1896,
+      "history": "Looted during the Anglo-Asante War of 1895–6. Further regalia taken as part of British indemnity from the Asantehene. Ghana has requested return; some items have been loaned back for display.",
+      "type": "gold regalia; ceremonial objects",
+      "museum_ref": "Various (1896 acquisitions)",
+      "object_url": "https://www.britishmuseum.org/about-us/british-museum-story/contested-objects-collection/asante-gold-regalia",
+      "image_url": null
+    },
+    {
+      "object_name": "Rosetta Stone",
+      "origin_place": "Rashid (Rosetta) / Fort Julien, Egypt",
+      "origin_coordinates": [31.44, 30.39],
+      "origin_country": "Egypt",
+      "year_acquired": 1801,
+      "history": "Found by French soldiers at Fort Julien near Rashid in 1799. After the French surrender of Egypt, transferred to Britain under the Treaty of Alexandria (1801). Key to deciphering Egyptian hieroglyphs. Egypt has repeatedly requested its return.",
+      "type": "stele; granodiorite; inscription",
+      "museum_ref": "EA 24",
+      "object_url": "https://www.britishmuseum.org/collection/egypt/explore-rosetta-stone",
+      "image_url": null
+    }
+  ]
+}

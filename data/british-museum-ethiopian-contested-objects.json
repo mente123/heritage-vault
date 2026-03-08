@@ -1,0 +1,112 @@
+{
+  "source": "British Museum contested/looted Ethiopian cultural objects",
+  "last_updated": "2025-03-08",
+  "notes": "Maqdala (modern Amba Mariam) was captured 13 April 1868. Objects were looted by troops and by Richard Rivington Holmes (BM staff), or purchased at the Army sale of loot on the Delanta Plain (20–21 April 1868). Coordinates: Maqdala/Amba Mariam 11.2°N, 39.283°E; Adulis 15.2636°N, 39.6606°E.",
+  "objects": [
+    {
+      "object_name": "Royal shield (with lion's mane pendant)",
+      "origin_place": "Maqdala (Amba Mariam)",
+      "origin_coordinates": [11.2, 39.283],
+      "history": "Maqdala 1868. Taken from fortress of Emperor Tewodros II. Described as 'the most richly ornamented of the royal shields'; possibly made for Tewodros. Acquired by Holmes (purchased at sale of loot or taken during plunder).",
+      "type": "shield",
+      "museum_ref": "Af1868,1001.1"
+    },
+    {
+      "object_name": "Second shield",
+      "origin_place": "Maqdala (Amba Mariam)",
+      "origin_coordinates": [11.2, 39.283],
+      "history": "Maqdala 1868. Less decorated than Af1868,1001.1. Part of loot from fortress.",
+      "type": "shield",
+      "museum_ref": "Af1868,1001.32"
+    },
+    {
+      "object_name": "Necklace (amulet / Ashän Ketab) associated with Empress Tiruwork Wube",
+      "origin_place": "Maqdala (Amba Mariam)",
+      "origin_coordinates": [11.2, 39.283],
+      "history": "Maqdala 1868. Looted by Richard Holmes at Maqdala on 13 April 1868 (retained as 'prize' with Napier's permission, not in auction list). BM report stated it 'belonged to the Queen of Theodore'.",
+      "type": "necklace; amulet",
+      "museum_ref": "Af1868,1001.4"
+    },
+    {
+      "object_name": "Communion cup dedicated by Tewodros II",
+      "origin_place": "Maqdala (Amba Mariam)",
+      "origin_coordinates": [11.2, 39.283],
+      "history": "Maqdala 1868. One of 13 objects bought by Holmes at the sale of loot on the Delanta Plain (20–21 April 1868).",
+      "type": "chalice / communion cup",
+      "museum_ref": "Af1868,1001.8"
+    },
+    {
+      "object_name": "Processional cross (Church of Takla Haymanot, given by Asada Maryam)",
+      "origin_place": "Maqdala (Amba Mariam); originally from church of Takla Haymanot",
+      "origin_coordinates": [11.2, 39.283],
+      "history": "Maqdala 1868. Copper alloy, 15th century. Part of treasury assembled by Tewodros from churches (incl. Gondar). Acquired by Holmes at sale or during plunder; Holmes purchased five crosses at the sale.",
+      "type": "processional cross",
+      "museum_ref": "Af1868,1001.16"
+    },
+    {
+      "object_name": "Silk tablet-woven hanging (church maqdas screen)",
+      "origin_place": "Maqdala (Amba Mariam); made in Gondar",
+      "origin_coordinates": [11.2, 39.283],
+      "history": "Maqdala 1868. Mid-18thC. Central section of triptych screening inner sanctum of church; depicts Bakaffa, Mentewab, Iyasu II. Purchased at Army sale of loot (40 Rupees). One of few large Ethiopian silk tablet weavings known.",
+      "type": "textile / hanging",
+      "museum_ref": "Af1868,1001.22"
+    },
+    {
+      "object_name": "Tabots (group of 11)",
+      "origin_place": "Maqdala (Amba Mariam) (nine); two from other Ethiopian provenances",
+      "origin_coordinates": [11.2, 39.283],
+      "history": "Maqdala 1868 (nine). Consecrated altar tablets representing the Ark of the Covenant; sacred in Ethiopian Orthodox tradition (viewing restricted to clergy). Some from Northcote (Secretary of State for India), one from Holmes (Af1868,1001.21). Stored off-display in sealed room; not illustrated online.",
+      "type": "tabot",
+      "museum_ref": "Af1868,1001.21; Af1868,1005.3; Af1868,1005.5; and nine others (full list not published)"
+    },
+    {
+      "object_name": "Prince Alemayehu's necklace",
+      "origin_place": "Maqdala / Abyssinian Campaign (provenance not fully documented)",
+      "origin_coordinates": [11.2, 39.283],
+      "history": "Associated with Prince Alemayehu (son of Tewodros II). Donated 1912 by Mrs Cornelia Mary Speedy (widow of Captain Speedy, guardian of the Prince). May have been taken at Maqdala or during campaign, or acquired on other visits to Ethiopia.",
+      "type": "necklace",
+      "museum_ref": "Af1912,0410.7"
+    },
+    {
+      "object_name": "Other processional crosses and liturgical objects (Maqdala)",
+      "origin_place": "Maqdala (Amba Mariam)",
+      "origin_coordinates": [11.2, 39.283],
+      "history": "Maqdala 1868. Holmes acquired six crosses in total (sale + plunder); purchased 13 objects at sale including multiple processional crosses, chalices. Northcote also gave regalia, liturgical objects and tabots. Collection file Af1868,1001.1–32.",
+      "type": "processional cross; chalice; umbrella top; liturgical vessel; weapons; jewellery; regalia",
+      "museum_ref": "Af1868,1001.x (series 1–32); Af1868,1005.x (Northcote group)"
+    },
+    {
+      "object_name": "Adulis church fragments (marble, alabaster, architectural)",
+      "origin_place": "Adulis (near Zula, Eritrea)",
+      "origin_coordinates": [15.2636, 39.6606],
+      "history": "1868. Excavated by Captain W. Goodfellow (Royal Engineers) at ancient port of Adulis (28 May–9 June 1868) near end of Abyssinian Campaign. Early Christian church; fragments given to BM by Secretary of State for India.",
+      "type": "architectural fragments; marble capital; relief fragments",
+      "museum_ref": "Secretary of State for India gift 1868 (specific numbers not listed in sources)"
+    }
+  ],
+  "related_not_at_british_museum": [
+    {
+      "object_name": "Kwer'ata Re'esu (icon of Christ with crown of thorns)",
+      "origin_place": "Maqdala (Amba Mariam)",
+      "origin_coordinates": [11.2, 39.283],
+      "history": "Maqdala 1868. Taken from Tewodros' chambers by Richard Holmes for his private collection (not disclosed to BM). Sold Christie's 1917; now in private collection, Coimbra, Portugal. Ethiopia requests restitution.",
+      "type": "icon / painting",
+      "museum_ref": "N/A (private collection, Portugal)"
+    },
+    {
+      "object_name": "Kebra Nagast (manuscript copies)",
+      "origin_place": "Maqdala (Amba Mariam)",
+      "origin_coordinates": [11.2, 39.283],
+      "history": "Maqdala 1868. One copy was returned to Emperor Yohannes IV in 1872. Remaining Maqdala manuscripts are in British Library (300+ MSS), not British Museum.",
+      "type": "manuscript",
+      "museum_ref": "British Library (e.g. Oriental and India Office Collections)"
+    }
+  ],
+  "maqdala_collection_summary": {
+    "total_objects_at_bm": "more than 90",
+    "acquisition": "Abyssinian Campaign 1867–1868; Battle of Maqdala 13 April 1868; sale of loot Delanta Plain 20–21 April 1868",
+    "types_included": "processional crosses, chalices, umbrella tops, weapons, shields, silk textiles, jewellery, tabots (11), liturgical vessels",
+    "sources": "Richard Rivington Holmes (purchase at auction + direct looting); Secretary of State for India (Northcote); Captain Speedy (later donations); other family donations 1900s",
+    "british_museum_page": "https://www.britishmuseum.org/about-us/british-museum-story/contested-objects-collection/maqdala-collection"
+  }
+}
