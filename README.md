@@ -1,6 +1,6 @@
 # Heritage Vault — African objects at the British Museum
 
-A map of **all 54 African countries** showing objects from the British Museum’s collection (search: [place=Africa](https://www.britishmuseum.org/collection/search?place=Africa) — **268,000+** artifacts). Data is grouped **by country**; the left panel lists countries with object counts and a photo gallery with **year taken/acquired**.
+A map of **all 54 African countries** showing objects from the British Museum’s collection (search: [place=Africa](https://www.britishmuseum.org/collection/search?place=Africa) — **268,000+** (currently just 25,353 artifacts). Data is grouped **by country**; the left panel lists countries with object counts and a photo gallery with **year taken/acquired**.
 
 ## Run locally
 
